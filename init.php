@@ -3,5 +3,7 @@
     ->setSourceDir('public')
     ->usePackage('larakit/sf-bootstrap')
     ->cssPackage('css/select2.css')
+    ->cssPackage('css/select2-bootstrap.min.css')
+    ->cssPackage('css/select2-extend.css')
     ->jsPackage('js/select2.js')
     ->jsPackage('js/select2-init.js');
