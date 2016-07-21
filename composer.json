@@ -1,0 +1,22 @@
+{
+    "name": "larakit/sf-bootstrap-select2",
+    "description": "[Larakit][lk-staticfiles] sf-bootstrap-select2",
+    "license": "MIT",
+    "version": "4.0.3",
+    "authors": [
+        {
+            "name": "Alexey Berdnikov",
+            "email": "aberdnikov@gmail.com"
+        }
+    ],    
+    "require": {
+        "larakit/sf-bootstrap": "*",
+        "select2/select2":"*",
+        "larakit/sf-larakit-js": "*"
+    },
+    "autoload": {
+        "files": [
+            "init.php"
+        ]
+    }
+}
