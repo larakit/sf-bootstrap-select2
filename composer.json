@@ -11,7 +11,6 @@
     ],    
     "require": {
         "larakit/sf-bootstrap": "*",
-        "larakit/qf-select-twbs":"*",
         "select2/select2":"*",
         "larakit/sf-larakit-js": "*"
     },
